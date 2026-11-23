@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Labyrinth</string>
+    <string name="game_instruction">Swipe to reach the green exit</string>
+    <string name="btn_restart">Restart</string>
+    <string name="win_title">Victory!</string>
+    <string name="win_message">You found the exit from the labyrinth!</string>
+    <string name="btn_play_again">Play Again</string>
+    <string name="btn_hint">Hint</string>
+    <string name="btn_language">EN</string>
+</resources>

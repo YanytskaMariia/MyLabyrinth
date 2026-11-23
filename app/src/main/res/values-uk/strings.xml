@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Мій Лабіринт</string>
+    <string name="game_instruction">Свайпайте, щоб дійти до зеленого виходу</string>
+    <string name="btn_restart">Почати заново</string>
+    <string name="win_title">Перемога!</string>
+    <string name="win_message">Ви успішно вийшли з лабіринту!</string>
+    <string name="btn_play_again">Грати ще</string>
+    <string name="btn_hint">Підказка</string>
+    <string name="btn_language">UA</string>
+</resources>
